@@ -1,0 +1,2 @@
+#!/bin/bash
+taik --lines=1 iacta >> iacta
